@@ -25,7 +25,7 @@ Copiar código
 pip install -r requirements.txt
 ```
 
-### ▶️ Uso
+## ▶️ Uso
 Ejecuta el script desde la terminal:
 
 ```bash
@@ -34,7 +34,7 @@ python3 main.py
 ```
 Sigue las instrucciones en pantalla para ingresar tu nombre y mensaje.
 
-### 📁 Estructura del proyecto
+## 📁 Estructura del proyecto
 ```bash
 
 console_banner_christmas/
